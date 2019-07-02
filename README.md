@@ -12,3 +12,14 @@ npm install -g yo
 ```
 sudo npm install -g yo generator-botbuilder
 ```
+
+
+1. Crear carpeta
+
+2. Acceder a la carpeta
+
+3. ejecutar
+
+```
+yo botbuilder
+```
