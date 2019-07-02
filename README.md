@@ -52,3 +52,7 @@ nodemon index.js
 ```
 https://github.com/mottaman85/BotBuilder-Samples.git
 ```
+
+### documentacion
+
+`https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0`
