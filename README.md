@@ -47,3 +47,8 @@ npm i
 npm  i -g nodemon
 nodemon index.js
 ```
+
+
+```
+https://github.com/mottaman85/BotBuilder-Samples.git
+```
