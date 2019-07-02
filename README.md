@@ -2,7 +2,10 @@ Install Yeoman
 ```
 https://github.com/mottaman85/bot_ws_uv/
 ```
-
+# Para los que genero error
+```
+https://github.com/mottaman85/bot_uv
+```
 ```
 npm install -g yo
 
