@@ -40,3 +40,10 @@ git clone https://github.com/mottaman85/sample_bot.git
 cd sample_bot
 npm i 
 ```
+
+### cambios automaticos
+
+```
+npm  i -g nodemon
+nodemon index.js
+```
